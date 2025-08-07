@@ -1,4 +1,4 @@
-[Book Store -BiesStore]()
+#[Book Store -BiesStore]
 is an e-commerce bookstore built with ASP.NET Core MVC, using Entity Framework Core and Microsoft SQL Server as the backend technologies. The project uses ASP.NET Core Identity for authentication and authorization, and follows the repository and unit of work pattern for data access. The project is structured using n-tier architecture, with separate projects for the web application, models, data access, and utilities.
 
 [Click Here for Demo And ScreenShots](./Demo)
