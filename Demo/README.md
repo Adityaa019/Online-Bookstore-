@@ -1,6 +1,6 @@
 # Demo
 
-Welcome to the demo of my project! In this folder, you'll find short videos showcasing the various features of my project.
+Welcome to the demo of my project! 
 
 **Disclaimer: All the demo videos are captured from the application deployed on Azure**
 
